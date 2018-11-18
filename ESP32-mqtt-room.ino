@@ -20,7 +20,7 @@ extern "C" {
 #include <BLEScan.h>
 #include <BLEAdvertisedDevice.h>
 #include <AsyncMqttClient.h>
-#include <ArduinoJSON.h>
+#include <ArduinoJson.h>
 #include "BLEBeacon.h"
 #include "BLEEddystoneTLM.h"
 #include "BLEEddystoneURL.h"
